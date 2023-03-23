@@ -4,7 +4,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+<p align="left">
 This is a simple text editor application built in Java using the Swing user interface toolkit. It allows users to create, open, edit, and save text files on their local computer.
+</p>
 
 [About](#about) •
 [Installation](#installation) •
