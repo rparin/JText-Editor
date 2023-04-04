@@ -2,7 +2,7 @@
 
 # JText-Editor
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License][license.io]][license-url]
 
 <p align="left">
 This is a simple text editor application built in Java using the Swing user interface toolkit. It allows users to create, open, edit, and save text files on their local computer.
@@ -19,7 +19,7 @@ This is a simple text editor application built in Java using the Swing user inte
 
 <div align="center">
 
-<img width=60% alt="demo of jtext editor" src="https://raw.githubusercontent.com/rparin/JText-Editor/main/preview/Demo.gif">
+<img height=350 alt="demo of jtext editor" src="https://raw.githubusercontent.com/rparin/JText-Editor/main/preview/Demo.gif">
 
 </div>
 
@@ -44,4 +44,10 @@ I made this program as a learning exercise.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/rparin/JText-Editor/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE][git-license-url] file for details.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[license.io]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-url]: https://opensource.org/licenses/MIT
+[git-license-url]: https://github.com/rparin/JText-Editor/blob/main/LICENSE
