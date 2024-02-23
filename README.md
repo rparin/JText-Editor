@@ -19,7 +19,7 @@ This is a simple text editor application built in Java using the Swing user inte
 
 <div align="center">
 
-<img height=350 alt="demo of jtext editor" src="https://raw.githubusercontent.com/rparin/JText-Editor/main/preview/Demo.gif">
+<img max-height=350 alt="demo of jtext editor" src="https://raw.githubusercontent.com/rparin/JText-Editor/main/preview/Demo.gif">
 
 </div>
 
